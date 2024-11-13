@@ -5,7 +5,6 @@ date:
 tags:
   - MBA
   - VBM
-  - Not_Done
 ---
 ## Introduction:
 ### Definition:

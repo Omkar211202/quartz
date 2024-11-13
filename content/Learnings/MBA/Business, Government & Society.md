@@ -5,7 +5,6 @@ date:
 tags:
   - MBA
   - BGS
-  - Done
 ---
 ## What's BGS ??
 
