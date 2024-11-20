@@ -2,13 +2,13 @@
 title: BlackBox
 ---
 ## What's Blackbox?
-
-- Interpretation 1: 
+![[augmented-reality-svgrepo-com.svg]]
+### Interpretation 1: 
 
 In planes, we would have heard about a box that will have all the messages, the pilot probably wanted to convey during his flight...(even if it reaches the air staff or not)..
 
 
-- Interpretation 2:
+###  Interpretation 2:
 
 A human mind is also a Blackbox(as per [[Marketing]]), it receives inputs, analyses them and makes decisions. Some tools for decision making are there in this Blackbox.
 
