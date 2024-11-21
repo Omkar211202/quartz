@@ -2,7 +2,7 @@
 title: BlackBox
 ---
 ## What's Blackbox?
-![[augmented-reality-svgrepo-com.svg]]
+
 ### Interpretation 1: 
 
 In planes, we would have heard about a box that will have all the messages, the pilot probably wanted to convey during his flight...(even if it reaches the air staff or not)..
@@ -29,7 +29,7 @@ To use this Blackbox:
 - [[Learnings]]: I have to attend my classes...  So Notes here...
 - [[Actuarial]]: I have to write exams... So Formulas here...
 - [[Miscellaneous]]: Learning is beyond classes... So Lessons here...
-- [[The Techie]]: At my heart, Love to be a techie.... So Code here...
+- [[TheTechie]]: At my heart, Love to be a techie.... So Code here...
 
 
 
