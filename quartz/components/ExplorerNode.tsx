@@ -182,7 +182,7 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
         </li>
       ) : (
         <li>
-          {node.name !== "" && (
+          {node.name !== "Excalidraw" && node.name != "" && (
             // Node with entire folder
             // Render svg button + folder name, then children
             <div class="folder-container">

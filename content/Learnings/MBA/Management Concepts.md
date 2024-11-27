@@ -37,7 +37,7 @@ Management is the process of planning, organizing, leading and controlling the e
 ---
 ## Theories in Management:
 
-theory is a coherent group of assumption put forth to explain a relationship between two or more variables.
+Theory is a coherent group of assumption put forth to explain a relationship between two or more variables.
 
 ### Classical Theories
 ### FW Taylor:

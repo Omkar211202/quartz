@@ -20,8 +20,6 @@ tags:
 =PERCENTILE.INC(B65:B124,0.9)
 =SKEW(B2:B121)
 =KURT(B2:B121)
-
-
 ```
 
 Normal Stats formula:
@@ -39,15 +37,12 @@ $$
 1. Poisson:
 $$
 		P(x)=\dfrac{e^{-\lambda}.\lambda^x}{x!}
-$$Excel: `Poisson.dist(x,mean,cummulative)`
+$$
+Excel: `Poisson.dist(x,mean,cummulative)`
 
 2. Hypergeometric:
-$$
 
-$$
-``
-
-4. Binomial
+3. Binomial
 
 --- 
 ## Continuous Distributions:

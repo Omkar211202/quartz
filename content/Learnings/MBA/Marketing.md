@@ -227,7 +227,7 @@ Plans:
 - Tactical Plan:  treat a business as a strategic business unit, altering 4 P's: Price, product, promotion and place.
 
 
-![[Drawing 2024-11-11 14.08.27.excalidraw.svg]]
+[[Drawing 2024-11-11 14.08.27.excalidraw]]
 
 
 ---
@@ -238,7 +238,8 @@ Plans:
 
 ### Black Box Model
 
-![[Drawing 2024-11-11 15.09.17.excalidraw.svg]]
+[[Drawing 2024-11-11 15.09.17.excalidraw]]
+
 
 ---
 ## Segmentation, Targeting and Position:
@@ -277,8 +278,8 @@ Market segmentation:
 ---
 ## Pricing:
 
+[[Drawing 2024-11-11 20.16.13.excalidraw]]
 
-![[Drawing 2024-11-11 20.16.13.excalidraw.svg]]
 ### Pricing Strategies:
 - high low.
 - skimming

@@ -1,12 +1,11 @@
 ---
 title: BlackBox
 ---
-## What's Blackbox?
+[[Drawing 2024-11-27 16.55.27.excalidraw]]
+
 
 ### Interpretation 1: 
-
 In planes, we would have heard about a box that will have all the messages, the pilot probably wanted to convey during his flight...(even if it reaches the air staff or not)..
-
 
 ###  Interpretation 2:
 

@@ -33,7 +33,8 @@ BGS is the study of interactions btw :
 - Under this model, the business breaks the traditional definition of "Stakeholders", its purview reaches out other entities that may be affected by its activities.
 - There are a set of entities called secondary stakeholders, who also play a pivotal role for business in decision making.
 
-![[bgs.excalidraw.svg]]
+[[bgs.excalidraw]]
+
 ### Importance of BGS to managers:
 
 1. Social contract.
@@ -42,7 +43,6 @@ BGS is the study of interactions btw :
 4. understand non-market forces.
 
 ### Array Forests Case study:
-
 Brief:
 Array is the green lung of Mumbai providing substantial oxygen to the robust and overpopulous city of Mumbai.
 The govt. is planning to use 33 hectares of land for the construction of the metro shed for the upcoming Mumbai underground Metro.
@@ -143,7 +143,8 @@ a concept whereby companies integrate social and environmental concerns in their
 2. Mandated:
 3. Market:
 ### Models of CSR:
-![[bgs.svg]]
+
+[[Drawing 2024-11-03 15.53.40.excalidraw]]
 
 
 1. The Carrol's pyramid model tells us that the business will move up the pyramid, once the foundational goals are satisfied. First profits, then compliance, ethics and lastly charity. 

@@ -4,7 +4,7 @@ date:
   - 2024-10-31
 tags:
   - MBA
-  - Acc
+  - ACC
 ---
 ## Cashflow Stmt.
 
@@ -17,28 +17,38 @@ $$
 ---
 ## Ratio Analysis:
 ### Liquidity Ratio:
+
 - $Current\hspace{2mm}Ratio$ = $\dfrac{current\hspace{2mm}assets}{current\hspace{2mm}liabilites}$
+
 
 - $Quick\hspace{2mm}Ratio$ = $\dfrac{quick\hspace{2mm}assets}{quick\hspace{2mm}liabilites}$
 
+
+
 - $Absolute\hspace{2mm}Cash\hspace{2mm}Ratio$ = $\dfrac{cash+marketable\hspace{2mm}securities}{current\hspace{2mm}liabilites}$
+
+
 
 - $Interval\hspace{2mm}Measure$ = $\dfrac{quick\hspace{2mm}assets}{current\hspace{2mm}expenses\hspace{2mm}per\hspace{2mm}day}$
 
+
+
 - quick assets = CA - prepaid expenses - inventories.
+
+
 - quick liabilities = CL - bank OD - cash credit
 
 
 ###  Capital Structure Ratios:
+
 - $Debt\hspace{2mm}Equity\hspace{2mm}Ratio$ = $\dfrac{debt}{equity}$
+
 
 - $Equity\hspace{2mm}to\hspace{2mm}Total\hspace{2mm}funds\hspace{2mm}Ratios$= $\dfrac{equity}{total funds}$
 
+
 - $Capital\hspace{2mm}Gearing\hspace{2mm}Ratio$ = $\dfrac{fixed\hspace{2mm}charge\hspace{2mm}bearing\hspace{2mm}capital}{equity\hspace{2mm}shareholder\hspace{2mm}funds}$
 
-- $Fixed\hspace{2mm}Asset\hspace{2mm}to\hspace{2mm}long\hspace{2mm}term\hspace{2mm}fund\hspace{2mm}ratio$ 
-
-- $Propriteary\hspace{2mm}Ratios$
 
 ---
 ### Limitation of Ratio Analysis:

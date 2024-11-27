@@ -12,14 +12,16 @@ tags:
 - value = sales + change in stock.
 
 ### Methods of Calculation:
+
 1. Value added method:
 
 $GDP= GVA_{ps}+GVA_{ss}+GVA_{ts}$
 
 2. Expenditure method:
-$GDP= Pvt\hspace{2mm}final\hspace{2mm}consumption+Investment+Govt\hspace{2mm}exp+Net\hspace{2mm}exports$
-3. Income method:
 
+$GDP= Pvt\hspace{2mm}final\hspace{2mm}consumption+Investment+Govt\hspace{2mm}exp+Net\hspace{2mm}exports$
+
+3. Income method:
 $GDP = wages\hspace{2mm}and\hspace{2mm}salaries +Rent+interest+profits+mixed\hspace{2mm}income+net\hspace{2mm}indirect\hspace{2mm}taxes+Depreciation$
 GDP Deflator:
 $(Nominal GNP/Real Gnp)*100$
@@ -70,16 +72,18 @@ functions of bank:
 - margin requirements.
 ---
 ## Fiscal Policy:
+
 tries to promote economic stability.
+
 budget:
 - Capital Receipts.
 - Capital Expenditures.
 - Revenue Receipts.
 - Revenue Expenditures.
 
-Revenue Deficit: Revenue expenditure - revenue receipts.
-Fiscal Deficit: Total expenditure - Total revenue.( other than borrowings)
-Primary Deficit: FD - interest.
+1. Revenue Deficit: Revenue expenditure - revenue receipts.
+2. Fiscal Deficit: Total expenditure - Total revenue.( other than borrowings)
+3. Primary Deficit: FD - interest.
 
 ---
 

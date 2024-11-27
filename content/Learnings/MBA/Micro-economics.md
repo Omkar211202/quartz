@@ -27,7 +27,8 @@ tags:
 - $D=f(price,income,habits)$
 - Law of Demand: In general, as the price of a commodity increases, the  quantity demanded  for that commodity will decrease. (Negative relationship between price and quantity)
 
-![[Drawing 2024-11-05 10.37.40.excalidraw.svg]]
+[[Drawing 2024-11-05 10.37.40.excalidraw]]
+
 
 Point Elasticity:
 
@@ -77,10 +78,8 @@ if $e$<0, complimentary.
 
 Law of Supply:
 - The law of supply says that as the price of the commodity, the quantity supplied of that commodity also increases and vice versa. (Ceteris Paribus)
-![[Drawing 2024-11-05 12.06.59.excalidraw.svg]]
 
-
-
+[[Drawing 2024-11-05 12.06.59.excalidraw]]
 
 Components affecting supply:
 - price 
@@ -144,10 +143,7 @@ marginal rate of technical substitution.
 Relationship bw marginal, average and total costs.
 
 
-![[Drawing 2024-11-05 12.14.06.excalidraw.svg]]
-
-
-
+[[Drawing 2024-11-05 12.14.06.excalidraw]]
 
 other concepts: 
 - Iso-cost line, 
