@@ -1,7 +1,9 @@
 ---
 title: BlackBox
+date:
+  - 2024-10-27
 ---
-[[Drawing 2024-11-27 16.55.27.excalidraw]]
+[[Drawing9.excalidraw]]
 
 
 ### Interpretation 1: 

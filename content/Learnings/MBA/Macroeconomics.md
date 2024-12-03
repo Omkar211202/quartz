@@ -23,7 +23,8 @@ $GDP= Pvt\hspace{2mm}final\hspace{2mm}consumption+Investment+Govt\hspace{2mm}exp
 
 3. Income method:
 $GDP = wages\hspace{2mm}and\hspace{2mm}salaries +Rent+interest+profits+mixed\hspace{2mm}income+net\hspace{2mm}indirect\hspace{2mm}taxes+Depreciation$
-GDP Deflator:
+4. GDP Deflator:
+
 $(Nominal GNP/Real Gnp)*100$
 
 ---

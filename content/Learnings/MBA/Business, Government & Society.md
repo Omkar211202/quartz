@@ -144,7 +144,7 @@ a concept whereby companies integrate social and environmental concerns in their
 3. Market:
 ### Models of CSR:
 
-[[Drawing 2024-11-03 15.53.40.excalidraw]]
+[[Drawing1.excalidraw]]
 
 
 1. The Carrol's pyramid model tells us that the business will move up the pyramid, once the foundational goals are satisfied. First profits, then compliance, ethics and lastly charity. 

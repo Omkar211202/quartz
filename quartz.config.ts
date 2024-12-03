@@ -45,8 +45,8 @@ const config: QuartzConfig = {
           lightgray: "#393639",
           gray: "#646464", //for below the main tag
           darkgray: "#d4d4d4", // main content and small things
-          dark: "#04DCE4", // main headings
-          secondary: "#04DCE4", // heading and other frames
+          dark: "#ffffff", // main headings
+          secondary: "#d2c9c9", // heading and other frames
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",

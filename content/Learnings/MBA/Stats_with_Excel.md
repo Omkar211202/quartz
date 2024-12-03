@@ -147,16 +147,15 @@ accept the null hypothesis if the above happens.
 ### Popn variances unknown
 1. Popn variances is equal.
 2. Popn variances is unequal.
-	 - if unequal variances:
+-  if unequal variances:
 $$
 t_{stat}=\dfrac{(\bar X_1-\bar X_2)-(\mu_1-\mu_2)}{\sqrt(\dfrac{S_1^2}{n_1}+\dfrac{S_2^2}{n_2})}
 $$
-	 - if equal variances:
+- if equal variances:
 $$
 t_{stat}=\dfrac{(\bar X_1-\bar X_2)-(\mu_1-\mu_2)}{\sqrt(\dfrac{S_p^2}{n_1}+\dfrac{S_p^2}{n_2})}
 $$
-		where $$S_P^2=\dfrac{(n_1-1)S^2_1+(n_2-1)S^2_2}{(n_1-1)+(n_2-1)}$$
-		$S^2_P$ is the pooled variance.
+where $$S_P^2=\dfrac{(n_1-1)S^2_1+(n_2-1)S^2_2}{(n_1-1)+(n_2-1)}$$$S^2_P$ is the pooled variance.
 ---
 ### F-test:
 $$

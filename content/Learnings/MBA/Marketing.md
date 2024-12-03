@@ -120,8 +120,9 @@ organizations, information, Ideas
 | Market     | market  | customer needs           | Integrated marketing campaign     | Profits through customer satisfaction. |
 
 ### Holistic Marketing.
-1. understand the fact of interdependencies and externalities in the  process.
 
+ understand the fact of interdependencies and externalities in the  process.
+ 
 - Relationship Marketing.
 1. Build relationships with the customer, pre and post sale.
 
@@ -227,7 +228,7 @@ Plans:
 - Tactical Plan:  treat a business as a strategic business unit, altering 4 P's: Price, product, promotion and place.
 
 
-[[Drawing 2024-11-11 14.08.27.excalidraw]]
+[[Drawing6.excalidraw]]
 
 
 ---
@@ -238,7 +239,7 @@ Plans:
 
 ### Black Box Model
 
-[[Drawing 2024-11-11 15.09.17.excalidraw]]
+[[Drawing7.excalidraw]]
 
 
 ---
@@ -278,7 +279,7 @@ Market segmentation:
 ---
 ## Pricing:
 
-[[Drawing 2024-11-11 20.16.13.excalidraw]]
+[[Drawing8.excalidraw]]
 
 ### Pricing Strategies:
 - high low.
