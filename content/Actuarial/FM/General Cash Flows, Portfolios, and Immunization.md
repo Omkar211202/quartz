@@ -14,6 +14,8 @@ Forward rates are rates that connect to 2 spot rates.
 $$
 (1+s_5)^5=(1+s_3)^3.(1+f_{3,5})^2
 $$
+
+
 the 5 year old spot rate is the product of three year and 2 year old forward rate.
 
 
