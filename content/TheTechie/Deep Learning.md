@@ -101,3 +101,8 @@ porbability=nn.softmax(dim=-1)
 output_tensor=probabilities(input_tensor)
  ## indicates that softmax is applied to the input tensor's last dimension.
 ```
+
+```excel
+Range("C5").Select
+Selection.FillDown
+```

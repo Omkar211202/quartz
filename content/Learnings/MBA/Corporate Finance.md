@@ -43,4 +43,12 @@ Difference bw equity and Debt:
 - payment of principal.
 
 
+Well there are lot of things to look at while taking decisions, should the finance decisions look at the factors,(sometimes conflict of int can arise), or single pointed agenda?
+
+Single point agenda: Maximize shareholder wealth. 
+
+Things a manager will have to look out for thinking about while maximizing shareholder wealth.
+
+[[Drawing _0.excalidraw]]
+
 
