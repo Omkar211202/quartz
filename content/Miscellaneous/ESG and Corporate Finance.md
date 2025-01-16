@@ -13,6 +13,8 @@ tags:
 
 - stakeholders here does not mean only investors, but it includes customers, suppliers and employees.
 
+---
+
 ### History of ESG:
 
 - started as EHS (Environment, Health and safety,1980's by UN)
@@ -40,13 +42,19 @@ Here are two examples of Automobile companies based out of India,
 
 ### Refinitiv:
 
-The below is the link to the robust mechanism used by refinitiv to arrive at an ESG score and then a `ESGC`
-score.
+Another ESG scoring agency based out of LSE. 
+It gives you a ESGC score, where C stands for controversy rating.
+
+The below is the link to the robust mechanism used by refinitiv to arrive at an ESG score and then a `ESGC` score. 
 
 [Environmental, Social and Governance (ESG) Scores from Refinitiv](https://blogs.cranfield.ac.uk/wp-content/uploads/2021/05/refinitiv-esg-scores-methodology-May22-1.pdf)
 
 ![[Pasted image 20241229211611.png]]
 (form a report by Refinitiv)
+
+---
+
+## FAQ:
 ### Comment on the increasing discourse on ESG.
 
 - Yes, ESG is becoming a metric to measure the long term sustainability of a business based out of a broader perspective as compared to the usual statements.
@@ -74,9 +82,17 @@ score.
 
 ### Does ESG provide a competitive advantage to the corporates? How?
 
+- Yes, ESG can provide a competitive advantage to corporates.
+- There could be companies that have a lesser advantage, while looking at financials, but when it comes to other aspects like, Employee satisfaction, environment and compliance etc. they might have a upper hand, which will reflect in the ESG score.
 
+- This is where they can get a upper hand among other corporates.
 
 ### Draw your inferences from the study of the ESG scores of Maruti and M&M.
+
+- Using the ESG scores from both S&P global and sustainalytics, it can be deduced that M&M is a better company as compared to Maruti Suzuki.
+- This is influenced by better practices at M&M across all the three pillars, which reflected in the scoring.
+
+---
 
 
 
