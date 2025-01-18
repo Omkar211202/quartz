@@ -5,6 +5,7 @@ date:
 tags:
   - MBA
 ---
+
 ## Types of Analytics:
 
 - Prescriptive analytics: what should we do??
@@ -52,27 +53,41 @@ ACV laddering:
 1. How to change appearance:
 - go to  Tools - global options - Appearance and change - apply.
 
+
+### Getting in touch:
+
 ```R
 ## Basics
-
 # how to print a string in R
 print("God is Great") 
 
+```
+
+```R
 # Some basic operations in R
 5*6
 1000/25
 sqrt(42)
+```
 
+```R
 # Assigning a var in R
 x=42
 x
+
+```
+```R
+# sum function
 sum(2,3,4)
 
 # Repeats the value of an input
 rep(576,3)
 rep("Mdelighted",3)
+```
 
-# Assigning a vector using C
+```R
+## Working with Vectors 
+##Assigning a vector using C
 z=c(10,5,3)
 z
 
@@ -107,4 +122,109 @@ vector/2
 
 ```
 
+```R
+# creating a matrix (data, rows, col)
+x=matrix(1:8,4,2,byrow=TRUE) # puts data in row order
+x
 
+# creating matrix using cbind
+cbind(c(1,2,3),c(4,5,6))
+
+x=matrix(1:16,ncol=4)
+x
+
+# accessing elements, rows and col in a matrix.
+s[2]
+s[,2]
+s[2,]
+s[1,2]
+
+# This will give the diagonal of the matrix
+dim(m)
+
+# Transpose of the matrix
+t(m)
+
+# Diagonal elements of the matrix
+diag(m)
+
+# Summary of the matrix
+summary(m)
+
+plot(m)
+
+```
+
+
+```R
+# handling missing values
+# summing elements in a vector by removing missing val.
+m=c(1,2,3,NA,4)
+sum(m,na.rm=TRUE)
+
+```
+
+
+### Functions in R
+
+```R
+cyl_vol=function(radius=1,height)
+{radius^2*pi*height}
+
+cyl_vol(height=10)
+
+```
+
+```R
+
+```
+### Handling datasets
+
+```R
+# using data sets in R 
+
+ # importing a data set present in R.
+data("longley")
+longley
+
+# finding the row names.
+row.names(longley) 
+
+# finding the col names.
+names(longley) 
+
+# shape of the data set
+dim(longley)
+
+# first 6 rows of the data set
+head(longley) 
+
+help("longley")
+
+summary(longley)
+str(longley)
+
+# Accessing data from datasets and some manipulation.
+data("starwars")
+starwars
+
+starwars%>% 
+  count(starwars$sex)
+
+starwars%>%
+  arrange(desc(height))
+
+```
+
+```R
+x=list(1,"a",TRUE,1+4i)
+x
+
+x=list(1,"a",he=tail(mtcars))
+x
+
+```
+
+```R
+
+```
